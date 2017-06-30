@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  position: absolute;
+  background: #7b8da3;
+  width: 500px;
+  height: 300px;
+  top: calc(50% - 150px );
+  left: calc(50% - (250px)); }
+
+.main-form {
+  padding: 10px; }
+  .main-form div {
+    margin: 10px; }
+
+/*# sourceMappingURL=style.css.map */

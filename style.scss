@@ -1,0 +1,17 @@
+$width : 500px;
+$height : 300px;
+.container{
+    display: flex;
+    position: absolute;
+    background: rgba(123, 141, 163, 1);
+    width: $width;
+    height:$height;
+    top: calc(50% - #{$height/2} );
+    left: calc(50% - (#{$width/2}));
+}
+.main-form{
+    padding:10px;
+    div{
+        margin:10px;
+    }
+}
